@@ -1,5 +1,5 @@
 # if-elif-else
-A little bit of these.
+A little bit of this.
 # ...existing code...
 idade = 14 
 
